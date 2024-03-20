@@ -10,5 +10,5 @@ services:
       - TZ=Asia/Tokyo
     volumes:
       - ./work:/home/jovyan/work
-    command: start-notebook.sh --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token='' --notebook-dir 'work'
+    command: bash -c "conda install -y -c conda-forge ipympl ipywidgets && jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib && start-notebook.sh --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token='' --notebook-dir 'work'"
     restart: always
