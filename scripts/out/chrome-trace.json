@@ -1,0 +1,424 @@
+{
+    "traceEvents": [
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "preprocessing",
+            "pid": "pid",
+            "tid": "tag:0",
+            "ts": 0,
+            "dur": 100000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc1",
+            "pid": "pid",
+            "tid": "tag:0",
+            "ts": 100000,
+            "dur": 200000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc2",
+            "pid": "pid",
+            "tid": "tag:0",
+            "ts": 200000,
+            "dur": 300000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "postprocessing",
+            "pid": "pid",
+            "tid": "tag:0",
+            "ts": 400000,
+            "dur": 100000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "file output",
+            "pid": "pid",
+            "tid": "tag:0",
+            "ts": 500000,
+            "dur": 100000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "send to logger",
+            "pid": "pid",
+            "tid": "tag:0",
+            "ts": 500000,
+            "dur": 50000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "preprocessing",
+            "pid": "pid",
+            "tid": "tag:1",
+            "ts": 100000,
+            "dur": 100000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc1",
+            "pid": "pid",
+            "tid": "tag:1",
+            "ts": 200000,
+            "dur": 200000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc2",
+            "pid": "pid",
+            "tid": "tag:1",
+            "ts": 300000,
+            "dur": 300000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "postprocessing",
+            "pid": "pid",
+            "tid": "tag:1",
+            "ts": 500000,
+            "dur": 100000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "file output",
+            "pid": "pid",
+            "tid": "tag:1",
+            "ts": 600000,
+            "dur": 100000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "send to logger",
+            "pid": "pid",
+            "tid": "tag:1",
+            "ts": 600000,
+            "dur": 50000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "preprocessing",
+            "pid": "pid",
+            "tid": "tag:2",
+            "ts": 1100000,
+            "dur": 100000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc1",
+            "pid": "pid",
+            "tid": "tag:2",
+            "ts": 1200000,
+            "dur": 200000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc2",
+            "pid": "pid",
+            "tid": "tag:2",
+            "ts": 1300000,
+            "dur": 300000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "postprocessing",
+            "pid": "pid",
+            "tid": "tag:2",
+            "ts": 1500000,
+            "dur": 100000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "file output",
+            "pid": "pid",
+            "tid": "tag:2",
+            "ts": 1600000,
+            "dur": 100000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "send to logger",
+            "pid": "pid",
+            "tid": "tag:2",
+            "ts": 1600000,
+            "dur": 50000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "preprocessing",
+            "pid": "pid",
+            "tid": "tag:3",
+            "ts": 1100000,
+            "dur": 1000000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc1",
+            "pid": "pid",
+            "tid": "tag:3",
+            "ts": 1200000,
+            "dur": 2000000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc2",
+            "pid": "pid",
+            "tid": "tag:3",
+            "ts": 1300000,
+            "dur": 3000000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "postprocessing",
+            "pid": "pid",
+            "tid": "tag:3",
+            "ts": 1500000,
+            "dur": 1000000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "file output",
+            "pid": "pid",
+            "tid": "tag:3",
+            "ts": 1600000,
+            "dur": 1000000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "send to logger",
+            "pid": "pid",
+            "tid": "tag:3",
+            "ts": 1600000,
+            "dur": 500000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc2",
+            "pid": "pid",
+            "tid": "tag:4",
+            "ts": 228000,
+            "dur": 755000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "preprocessing",
+            "pid": "pid",
+            "tid": "tag:4",
+            "ts": 588000,
+            "dur": 329000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc1",
+            "pid": "pid",
+            "tid": "tag:4",
+            "ts": 1085000,
+            "dur": 538000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "file output",
+            "pid": "pid",
+            "tid": "tag:4",
+            "ts": 1300000,
+            "dur": 289000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "postprocessing",
+            "pid": "pid",
+            "tid": "tag:4",
+            "ts": 1922000,
+            "dur": 875000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "send to logger",
+            "pid": "pid",
+            "tid": "tag:4",
+            "ts": 1979000,
+            "dur": 936000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc2",
+            "pid": "pid",
+            "tid": "tag:5",
+            "ts": 2765000,
+            "dur": 811000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "preprocessing",
+            "pid": "pid",
+            "tid": "tag:5",
+            "ts": 3428000,
+            "dur": 631000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc1",
+            "pid": "pid",
+            "tid": "tag:5",
+            "ts": 4188000,
+            "dur": 580000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "file output",
+            "pid": "pid",
+            "tid": "tag:5",
+            "ts": 4606000,
+            "dur": 711000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "postprocessing",
+            "pid": "pid",
+            "tid": "tag:5",
+            "ts": 4680000,
+            "dur": 718000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "send to logger",
+            "pid": "pid",
+            "tid": "tag:5",
+            "ts": 5415000,
+            "dur": 832000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc2",
+            "pid": "pid",
+            "tid": "tag:6",
+            "ts": 5668000,
+            "dur": 934000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "preprocessing",
+            "pid": "pid",
+            "tid": "tag:6",
+            "ts": 6448000,
+            "dur": 955000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "calc1",
+            "pid": "pid",
+            "tid": "tag:6",
+            "ts": 6574000,
+            "dur": 370000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "file output",
+            "pid": "pid",
+            "tid": "tag:6",
+            "ts": 7192000,
+            "dur": 279000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "postprocessing",
+            "pid": "pid",
+            "tid": "tag:6",
+            "ts": 7752000,
+            "dur": 999000,
+            "args": {}
+        },
+        {
+            "ph": "X",
+            "cat": "cat",
+            "name": "send to logger",
+            "pid": "pid",
+            "tid": "tag:6",
+            "ts": 8022000,
+            "dur": 574000,
+            "args": {}
+        }
+    ]
+}
